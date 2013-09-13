@@ -3,8 +3,9 @@ Python Playgroun  :-D
 Here are some of the things I'd like to do:
 
 * sampler code for various predictive methods on various data sets
-  including statistics about the effectiveness of that model for 
-  that data set.  I will be using free data time series data sets
+  including statistics about the effectiveness of models for a
+  particular data set (because not all data sets are created 
+  equally).  I will be using various free time series data sets
   from DataMarket.com.
 
 * sudoku generator
