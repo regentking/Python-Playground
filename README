@@ -3,10 +3,22 @@ Python Playgroun  :-D
 Here are some of the things I'd like to do:
 
 * sampler code for various predictive methods on various data sets
-  including statistics about the effectiveness of models for a
-  particular data set (because not all data sets are created 
-  equally).  I will be using various free time series data sets
+  including a composite line graph showing differences of the 
+  original data and the extrapolated values.  I would do statistics 
+  about the effectiveness of models for a particular data set.
+  However, I came to the realization last night that I do not have 
+  a distributed system tucked away in my back pocket.  Therefore,
+  I will so composite line graphs of the results of a single run.
+  BUT, if anyone would like to grant me access to a distributed 
+  system of some kind, I would be more than happy to run the needed
+  tests and compose the desired statistics.  Until then, a line 
+  graph it is.  I will be using various free time series data sets
   from DataMarket.com.
+
+      * Models to be included
+          * simple linear regression
+          * ...
+
 
 * sudoku generator
 
