@@ -29,8 +29,20 @@ Here are some of the things I'd like to do:
 
 --- 
 
-BTW, there are also some programs titled Ex[number].[number] in 
+BTW, there are also some programs titled Ex[number].[number].py in 
 this directory.  These are examples I've played with from a 
 great book called "Python Scripting for Computational Science",
 Third Edition.  This is a great book!  I recommend it for anyone
 wanting to learn Python.  
+
+---
+
+
+18-Sept-2013
+
+Added example code for calulating covarianc: expectEx.py
+This code is very simple code, no error checking.  I may
+add that later.  Right now, I just want to get example code out.
+
+ 
+
