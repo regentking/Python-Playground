@@ -40,7 +40,7 @@ wanting to learn Python.
 
 18-Sept-2013
 
-Added example code for calulating covarianc: expectEx.py
+Added example code for calulating covariance: expectEx.py
 This code is very simple code, no error checking.  I may
 add that later.  Right now, I just want to get example code out.
 
